@@ -66,4 +66,11 @@ public class CustomerServiceImpl implements CustomerService {
         return customerDto;
     }
 
+    @Override
+    public Customer resetPassword(Customer customer, String password) {
+        Customer cus = customerRepository.findByUsername(customer.getUsername());
+        cus.setPassword(password);
+        return customerRepository.save(cus);
+    }
+
 }

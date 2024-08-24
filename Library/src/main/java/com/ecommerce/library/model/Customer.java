@@ -21,7 +21,7 @@ public class Customer {
     private String phoneNumber;
     private String address;
 
-    @OneToOne(fetch = FetchType.EAGER)
+    @ManyToOne(fetch = FetchType.EAGER, cascade = CascadeType.ALL)
     @JoinColumn(name = "name", referencedColumnName = "id")
     private City city;
     private String country;

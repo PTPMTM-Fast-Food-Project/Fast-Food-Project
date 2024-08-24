@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org/">
+<!-- Basic -->
+<head th:replace="~{fragments::head}">
+</head>
+
+<body>
+<!-- Start Main Top -->
+<div th:replace="~{fragments::main-top}">
+
+</div>
+<!-- End Main Top -->
+
+<!-- Start Top Search -->
+<div th:replace="~{fragments::top-search}">
+</div>
+<!-- End Top Search -->
+
+<!-- Start All Title Box -->
+<div th:replace="~{fragments :: all-title-box}">
+</div>
+<!-- End All Title Box -->
+
+<section id="login-form">
+    <div class="noi-dung">
+        <div class="form mt-5">
+            <div th:if = "${error != null}" class="alert alert-danger text-center">
+                <h2 th:text="${error}"></h2>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<a href="#" id="back-to-top" title="Back to top" style="display: none;">&uarr;</a>
+
+<!-- ALL JS FILES -->
+<div th:replace="~{fragments::script}"></div>
+</body>
+
+</html>

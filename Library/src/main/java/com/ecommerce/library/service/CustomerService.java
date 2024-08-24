@@ -13,4 +13,6 @@ public interface CustomerService {
     Customer changePass(CustomerDto customerDto);
 
     CustomerDto getCustomer(String username);
+
+    Customer resetPassword(Customer customer, String password);
 }

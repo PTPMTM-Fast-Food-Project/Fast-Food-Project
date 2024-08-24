@@ -1,6 +1,8 @@
 package com.ecommerce.library.dto;
 
 import com.ecommerce.library.model.City;
+
+import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.Size;
 
 
@@ -10,8 +12,11 @@ public class CustomerDto {
 
     @Size(min = 3, max = 10, message = "Last name contains 3-10 characters")
     private String lastName;
+
+    @Email(message = "Invalid email address")
     private String username;
-    @Size(min = 3, max = 15, message = "Password contains 3-10 characters")
+    
+    @Size(min = 3, max = 15, message = "Password contains 3-15 characters")
     private String password;
 
     @Size(min = 10, max = 15, message = "Phone number contains 10-15 characters")

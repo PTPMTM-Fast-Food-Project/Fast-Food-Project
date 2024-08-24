@@ -6,7 +6,7 @@
   </component>
   <component name="DBNavigator.Project.DataEditorManager">
     <record-view-column-sorting-type value="BY_INDEX" />
-    <value-preview-text-wrapping value="true" />
+    <value-preview-text-wrapping value="false" />
     <value-preview-pinned value="false" />
   </component>
   <component name="DBNavigator.Project.DatabaseBrowserManager">
@@ -17,7 +17,12 @@
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="e4a60fcd-d362-45dc-b99f-2257278b38de">
-      <console name="MyDBConnection" type="STANDARD" schema="" session="Main" />
+      <console name="MyDBConnection" type="STANDARD" schema="spring_ecommerce_website" session="Main"><![CDATA[USE spring_ecommerce_website;
+
+SELECT * FROM spring_ecommerce_website.forgot_password_token;
+SELECT * FROM spring_ecommerce_website.forgot_password_token_seq;
+
+SELECT * FROM spring_ecommerce_website.customers;]]></console>
       <console name="mysql_v1" type="STANDARD" schema="mysql" session="Main"><![CDATA[SELECT * FROM spring_ecommerce_website.products;]]></console>
     </connection>
   </component>
@@ -29,6 +34,9 @@
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="e4a60fcd-d362-45dc-b99f-2257278b38de" />
+  </component>
+  <component name="DBNavigator.Project.DatasetFilterManager">
+    <filter-actions connection-id="e4a60fcd-d362-45dc-b99f-2257278b38de" dataset="spring_ecommerce_website.forgot_password_token" active-filter-id="" />
   </component>
   <component name="DBNavigator.Project.ExecutionManager">
     <retain-sticky-names value="false" />
@@ -139,6 +147,7 @@
         <display-mode value="TABBED" />
         <navigation-history-size value="100" />
         <show-object-details value="false" />
+        <enable-sticky-paths value="true" />
       </general>
       <filters>
         <object-type-filter>

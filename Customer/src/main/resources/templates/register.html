@@ -47,7 +47,9 @@
 
                     <div class="input-form">
                         <div class="input-form">
-                            <input type="email" placeholder="Username" name="username" th:field = "*{username}" required>
+                            <input type="email" placeholder="Email" name="username" th:field = "*{username}" required>
+                            <div class="alert alert-danger" th:if = "${#fields.hasErrors('username')}"
+                             th:errors = "*{username}"></div>
                         </div>
                         <div class="input-form">
                             <input type="password" placeholder="Password" name="password" th:field = "*{password}" required>
@@ -66,12 +68,12 @@
                     </div>
                 </div>
             </form>
-            <h3>Log In With Social Network</h3>
-            <ul class="icon-dang-nhap">
-                <li><i class="fab fa-facebook-f"></i></li>
-                <li><i class="fab fa-google"></i></li>
-                <li><i class="fab fa-weibo"></i></li>
-            </ul>
+<!--            <h3>Log In With Social Network</h3>-->
+<!--            <ul class="icon-dang-nhap">-->
+<!--                <li><i class="fab fa-facebook-f"></i></li>-->
+<!--                <li><i class="fab fa-google"></i></li>-->
+<!--                <li><i class="fab fa-weibo"></i></li>-->
+<!--            </ul>-->
         </div>
     </div>
 </section>
