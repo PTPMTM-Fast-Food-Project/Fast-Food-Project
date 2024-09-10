@@ -8,8 +8,8 @@
             <td>Họ và tên</td>
         </tr>
         <tr>
-            <td>Acknowledgments</td>
-            <td></td>
+            <td>2001215853</td>
+            <td>Nguyễn Võ Hoàng Khang</td>
         </tr>
 </table>
 </dev>
