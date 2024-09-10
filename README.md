@@ -19,6 +19,7 @@
 <p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
 
 ## Mô tả về đề tài<!-- Required -->
+## Minh họa luồng hoạt động của hệ thống
 ## Yêu cầu chức năng
 ## Phân công công việc
 ## Công nghệ sử dụng
