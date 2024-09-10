@@ -1,33 +1,15 @@
 # Fast-Food-Project
 
 ## Thành viên<!-- Optional -->
-<!-- 
-* This section is optional, yet having a contents table 
-* helps keeping your README readable and more professional.
-* 
-* If you are not familiar with HTML, no worries we all been there :) 
-* Review learning resources to create anchor links. 
--->
-
-
 <dev display="inline-table" vertical-align="middle">
 <table align="center" vertical-align="middle">
         <tr>
-            <td><a href="#about">About</a></td>        
-            <td><a href="#how-to-use-this-project">Getting started</td>
-            <td><a href="#demo">Demo</a></td>
-            <td><a href="#project-roadmap--">Project Roadmap</a></td>
-            <td><a href="#documentation">Documentation</a></td>
-            <td><a href="#contributors">Contributors</a></td>
+            <td>About<td>        
+            <td>Getting started</td>
         </tr>
         <tr>
-            <td><a href="#acknowledgments">Acknowledgments</a></td>
-            <td><a href="https://github.com/YousefIbrahimismail/Project-README-Template/tree/main/Learning_Resources">Learning Resources</a></td>
-            <td><a href="https://github.com/YousefIbrahimismail/Project-README-Template/wiki/Step-by-Step-Guide">
-            Step By Step Guide</a></td>
-            <td><a href="#feedback">Feedback</a></td>
-            <td><a href="#contact">Contact</a></td>
-            <td><a href="#license">License</a></td>
+            <td>Acknowledgments</td>
+            <td></td>
         </tr>
 </table>
 </dev>
