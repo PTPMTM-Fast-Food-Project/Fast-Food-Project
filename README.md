@@ -40,6 +40,9 @@
 </table>
 </dev>
 
+<a href="https://trello.com/invite/b/66e0064812e4fd96d37adfce/ATTI8a39d8146e53645d0e1c8ef86e442af3875C6213/fast-food-project" 
+   target="_blank">Link theo dõi tiến độ công việc của cả nhóm</a>
+
 ## <img src="https://png.pngtree.com/png-vector/20210609/ourmid/pngtree-information-technology-cloud-computing-computer-hub-png-image_3425778.jpg" width="48" height="50"/>Công nghệ sử dụng
 ### Windows Forms:
 <ul>
