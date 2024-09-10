@@ -45,7 +45,7 @@
         <li>Database: MySQL</li>
 </ul>
 
-### AI:
+### AI: Using Natural language processing (NLP) to make a chatbots
 
 ## Các chức năng triển khai theo nền tảng (App, Web)
 <!-- 
