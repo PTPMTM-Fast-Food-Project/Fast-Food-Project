@@ -6,18 +6,22 @@
         <tr>
             <th>Mã số sinh viên</th>
             <th>Họ và tên</th>
+            <th>Vai trò</th>
         </tr>
         <tr>
             <td>2001215853</td>
             <td>Nguyễn Võ Hoàng Khang</td>
+            <td>Nhóm trưởng</td>
         </tr>
         <tr>
             <td>2001215991</td>        
             <td>Lê Diệp Xuân Nguyên</td>
+            <td>Thành viên</td>
         </tr>
         <tr>
             <td>2001216100</td>        
             <td>Trần Gia Quỳnh</td>
+            <td>Thành viên</td>
         </tr>
 </table>
 </dev>
