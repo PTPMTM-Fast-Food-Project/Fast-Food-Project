@@ -1,4 +1,4 @@
-# Hệ thống quản lý bán thức ăn nhanh
+# Hệ thống quản lý bán thức ăn nhanh tích hợp chatbot
 
 ## Thành viên<!-- Optional -->
 <dev display="inline-table" vertical-align="middle">
@@ -26,11 +26,27 @@
 <!-- - Use this html element to create a back to top button. -->
 <p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
 
-## Mô tả về đề tài<!-- Required -->
+## Mô tả về đề tài
 ## Minh họa luồng hoạt động của hệ thống
 ## Yêu cầu chức năng
 ## Phân công công việc
 ## Công nghệ sử dụng
+### Windows Forms:
+<ul>
+        <li>Programming Languages: C#</li>
+        <li>Frameworks & Libraries: .NET Windows Forms</li>
+        <li>Database: MySQL</li>
+</ul>
+
+### Web Forms:
+<ul>
+        <li>Programming Languages: Java</li>
+        <li>Frameworks & Libraries: Spring</li>
+        <li>Database: MySQL</li>
+</ul>
+
+### AI:
+
 ## Các chức năng triển khai theo nền tảng (App, Web)
 <!-- 
 * Here you may add information about how 
