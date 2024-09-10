@@ -18,7 +18,11 @@
 <!-- - Use this html element to create a back to top button. -->
 <p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
 
-## How to use this project<!-- Required -->
+## Mô tả về đề tài<!-- Required -->
+## Yêu cầu chức năng
+## Phân công công việc
+## Công nghệ sử dụng
+## Các chức năng triển khai theo nền tảng (App, Web)
 <!-- 
 * Here you may add information about how 
 * 
