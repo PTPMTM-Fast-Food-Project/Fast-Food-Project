@@ -41,7 +41,7 @@
 ### Web Forms:
 <ul>
         <li>Programming Languages: Java</li>
-        <li>Frameworks & Libraries: Spring</li>
+        <li>Frameworks & Libraries: Spring, Thymeleaf</li>
         <li>Database: MySQL</li>
 </ul>
 
