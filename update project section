@@ -4,12 +4,20 @@
 <dev display="inline-table" vertical-align="middle">
 <table align="center" vertical-align="middle">
         <tr>
-            <td>Mã số sinh viên<td>        
-            <td>Họ và tên</td>
+            <th>Mã số sinh viên</th>
+            <th>Họ và tên</th>
         </tr>
         <tr>
             <td>2001215853</td>
             <td>Nguyễn Võ Hoàng Khang</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2001215853</td>
+            <td></td>
         </tr>
 </table>
 </dev>
