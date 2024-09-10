@@ -1,11 +1,11 @@
-# Fast-Food-Project
+# Hệ thống quản lý bán thức ăn nhanh
 
 ## Thành viên<!-- Optional -->
 <dev display="inline-table" vertical-align="middle">
 <table align="center" vertical-align="middle">
         <tr>
-            <td>About<td>        
-            <td>Getting started</td>
+            <td>Mã số sinh viên<td>        
+            <td>Họ và tên</td>
         </tr>
         <tr>
             <td>Acknowledgments</td>
