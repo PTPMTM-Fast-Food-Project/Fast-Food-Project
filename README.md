@@ -44,7 +44,7 @@
 ### AI: Using Natural language processing (NLP) to make a chatbots
 
 ## Các chức năng triển khai theo nền tảng (App, Web)
-Desktop Application:
+<b>Desktop Application:</b>
  - Quản lý khách hàng (Xem danh sách các khách hàng).
  - Quản lý nhân viên (Xem và thêm sửa xóa nhân viên) .
  - Quản lý sản phẩm/loại sản phẩm (Xem và thêm sửa xóa sản phẩm, loại sản phẩm).
@@ -52,7 +52,8 @@ Desktop Application:
  - Quản lý doanh thu (Theo dõi, thống kê và xuất báo cáo).
  - Đăng nhập/Đăng xuất.
  - Phân quyền giữa admin và nhân viên.
-Web Application:
+
+<b>Web Application:</b>
  - Đăng ký/Đăng nhập/Quên mật khẩu/Đăng xuất.
  - Xác thực người dùng.
  - Chỉnh sửa thông tin người dùng.
