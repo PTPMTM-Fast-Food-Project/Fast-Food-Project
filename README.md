@@ -44,4 +44,27 @@
 ### AI: Using Natural language processing (NLP) to make a chatbots
 
 ## Các chức năng triển khai theo nền tảng (App, Web)
+Desktop Application:
+ - Quản lý khách hàng (Xem danh sách các khách hàng).
+ - Quản lý nhân viên (Xem và thêm sửa xóa nhân viên) .
+ - Quản lý sản phẩm/loại sản phẩm (Xem và thêm sửa xóa sản phẩm, loại sản phẩm).
+ - Quản lý đơn hàng (Xem và xác nhận đơn hàng).
+ - Quản lý doanh thu (Theo dõi, thống kê và xuất báo cáo).
+ - Đăng nhập/Đăng xuất.
+ - Phân quyền giữa admin và nhân viên.
+Web Application:
+ - Đăng ký/Đăng nhập/Quên mật khẩu/Đăng xuất.
+ - Xác thực người dùng.
+ - Chỉnh sửa thông tin người dùng.
+ - Xem danh sách sản phẩm (Tất cả, theo loại sản phẩm).
+ - Sắp xếp sản phẩm theo giá tăng dần giảm dần, xem danh sách sản phẩm ngẫu nhiên.
+ - Tìm kiếm sản phẩm theo tên, loại sản phẩm.
+ - Xem chi tiết sản phẩm.
+ - Đặt hàng/Xem chi tiết giỏ hàng.
+ - Thanh toán (tích hợp VN Pay).
+ - Tích hợp chatbot.
+## Tham khảo
+https://www.haravan.com/
+https://www.sapo.vn/
+https://chicken-run.myharavan.com/
 
