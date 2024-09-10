@@ -33,24 +33,9 @@
 <dev display="inline-table" vertical-align="middle">
 <table align="center" vertical-align="middle">
         <tr>
-            <th>Mã số sinh viên</th>
-            <th>Họ và tên</th>
-                <th>Công việc</th>
-        </tr>
-        <tr>
-            <td>2001215853</td>
-            <td>Nguyễn Võ Hoàng Khang</td>
-                <td></td>
-        </tr>
-        <tr>
-            <td>2001215991</td>        
-            <td>Lê Diệp Xuân Nguyên</td>
-                <td></td>
-        </tr>
-        <tr>
-            <td>2001216100</td>        
-            <td>Trần Gia Quỳnh</td>
-                <td></td>
+            <th>STT</th>
+            <th>Công việc</th>
+            <th>Thành viên thực hiện</th>
         </tr>
 </table>
 </dev>
