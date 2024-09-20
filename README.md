@@ -52,14 +52,14 @@
 
 ### Web Forms:
 <ul>
-        <li>Programming Languages: Java</li>
-        <li>Frameworks & Libraries: Spring, Thymeleaf</li>
+        <li>Programming Languages: Java, Javascript</li>
+        <li>Frameworks & Libraries: Spring, Thymeleaf, CSS Framework (Bootstrap)</li>
         <li>Database: MySQL</li>
 </ul>
 
 ### AI: Using Natural language processing (NLP) to make a chatbots
 
-## Các chức năng triển khai theo nền tảng (App, Web)
+## Các chức năng triển khai theo nền tảng (Desktop, Web)
 <b>Desktop Application:</b>
  - Quản lý khách hàng (Xem danh sách các khách hàng).
  - Quản lý nhân viên (Xem và thêm sửa xóa nhân viên) .
@@ -80,7 +80,8 @@
  - Đặt hàng/Xem chi tiết giỏ hàng.
  - Thanh toán (tích hợp VN Pay).
  - Tích hợp chatbot.
-## Tham khảo
+
+## Link Tham khảo
 https://www.haravan.com/
 
 https://www.sapo.vn/
