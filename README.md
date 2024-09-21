@@ -37,6 +37,16 @@
             <th>Công việc</th>
             <th>Thành viên thực hiện</th>
         </tr>
+        <tr>
+            <th>1</th>
+            <th>Quản lý nhân viên (Xem và thêm sửa xóa nhân viên)</th>
+            <th>Lê Diệp Xuân Nguyên</th>
+        </tr>
+        <tr>
+            <th>2</th>
+            <th>Quản lý sản phẩm (Xem và thêm sửa xóa sản phẩm, loại sản phẩm)</th>
+            <th>Lê Diệp Xuân Nguyên</th>
+        </tr>
 </table>
 </dev>
 
